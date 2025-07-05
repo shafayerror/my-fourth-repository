@@ -1,5 +1,12 @@
 div{
     background-color: green;
+    font-family: 'Courier New', Courier, monospace;
     padding: 10px 10px;
-    margin: 10px 20px;
+    margin: 10px 20 px;
+    font-style: italic;
+
+}
+button{
+    background-color: brown;
+    position:middle;
 }
