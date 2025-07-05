@@ -1,8 +1,8 @@
-div{
+p{
     background-color: green;
     font-family: 'Courier New', Courier, monospace;
-    padding: 10px 10px;
-    margin: 10px 20 px;
+    padding: 10px 10px 10px;
+    margin: 10px 10px 10px;
     font-style: italic;
 
 }
@@ -10,3 +10,14 @@ button{
     background-color: brown;
     position:middle;
 }
+
+      
+    
+    #afrin{
+        background-color: aquamarine;
+        margin: 10px;
+    }
+
+    #nst{
+        text-align: center;
+    }
